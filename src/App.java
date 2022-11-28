@@ -10,6 +10,6 @@ public class App {
         int resultado = 0;
         resultado = a + b + c;
         return resultado;
-        
+      
     }
 }
